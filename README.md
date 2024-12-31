@@ -1,0 +1,2 @@
+# dio_algoritmos_processamento_imagens_digitais_deteccao_bordas
+# dio_algoritmos_processamento_imagens_digitais_deteccao_bordas
